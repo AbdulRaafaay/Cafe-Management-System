@@ -1,0 +1,8 @@
+Name	Sale(Rs)
+kamil	1320
+kamil	1690
+hayan	190
+ahmad	2380
+hayan	240
+kamil	120
+kamil	10320
